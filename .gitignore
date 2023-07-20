@@ -29,5 +29,8 @@ bin/
 .DS_Store
 
 .idea/
+
 /out/
-*.iml/
+
+*.iml
+javaQA1.iml
